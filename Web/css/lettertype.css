@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'PixelifySans';
+    src: url('/Fonts/PixelifySans.ttf') format('truetype');
+}
+
+body {
+    font-family: 'PixelifySans', sans-serif;
+}

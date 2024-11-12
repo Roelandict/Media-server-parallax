@@ -1,0 +1,19 @@
+###################
+# extensions for files #
+###################
+*.env
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+###################
+# individual files #
+###################
+main
+server/api/.env
+###################
+
+server/api/.env
